@@ -21,4 +21,8 @@ public class JenkinsDemoApplication {
         return "jenkins demo3";
     }
 
+    public String getJenkinsDemo4() {
+        return "jenkins demo4";
+    }
+
 }
